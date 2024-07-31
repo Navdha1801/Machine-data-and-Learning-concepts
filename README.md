@@ -1,1 +1,3 @@
-# Machine-data-and-Learning-concepts
+1. bias_variance_tradeoff folder contains jupyter notebook and report.pdf which contains the description and explanation of the solutions of the questions solved in jupyter notebook.
+2. probability_theory.ipynb contains question and then the solution(code and the explanation of the graphs so obtained).
+3. Markov_decision_process.ipynb contains the question which uses concept of mdp and also the solution.(code and explanation of the output so obtained).
